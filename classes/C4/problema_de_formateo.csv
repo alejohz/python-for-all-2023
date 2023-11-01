@@ -1,0 +1,11 @@
+estrategia,codigo,cuenta_de_cobro,cuenta
+Estrategia 1,cod 1,cdc 1,101
+,,cdc 2,102
+,,cdc 3,103
+,,cdc 4,
+,,cdc 5,
+Estrategia 2,cod 2,cdc 3,105
+,,cdc 2,102
+,,,106
+,,,107
+,,,108
