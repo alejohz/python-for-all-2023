@@ -1,0 +1,27 @@
+Name, Age, City
+Alice, 25, New York
+Bob, 30, Los Angeles
+Charlie, 28, Chicago
+David, 35, San Francisco
+Eve, 22, Seattle
+Frank, 40, Miami
+Grace, 27, Denver
+Hannah, 29, Boston
+Isaac, 33, Austin
+Jane, 26, San Diego
+Karl, 32, Phoenix
+Linda, 24, Dallas
+Michael, 31, Houston
+Nina, 23, Atlanta
+Oliver, 36, Philadelphia
+Patricia, 37, Washington D.C.
+Quincy, 28, New Orleans
+Rachel, 27, Nashville
+Sam, 31, Denver
+Tina, 30, Seattle
+Ulysses, 34, San Diego
+Victoria, 29, Los Angeles
+William, 38, Chicago
+Xander, 26, New York
+Yasmine, 25, Miami
+Zane, 24, Austin

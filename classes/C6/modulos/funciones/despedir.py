@@ -1,0 +1,2 @@
+def despedir():
+    print("chao")
